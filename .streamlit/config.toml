@@ -1,0 +1,22 @@
+[server]
+port = 8501
+headless = true
+logger.level = "error"
+enableCORS = false
+runOnSave = true
+
+[client]
+showErrorDetails = false
+showWarningOnDirectExecution = false
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#81D4FA"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#E0F2F1"
+textColor = "#263238"
+font = "sans serif"
+
+[logger]
+level = "error"
+messageFormat = "%(asctime)s - %(message)s"

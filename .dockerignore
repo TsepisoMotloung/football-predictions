@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.env.local
+*.pyc
+__pycache__
+*.egg-info
+.venv
+venv
+.streamlit/secrets.toml
+*.csv
+.DS_Store
+node_modules
